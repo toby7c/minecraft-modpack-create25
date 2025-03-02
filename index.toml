@@ -1,0 +1,141 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "431f7c97b30f25d7ce399651153c3049c5f0300714e3ab933448bf4dccf2dc9e"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "c5df6a939b23ea1dc348989e5185d7ad7d7e65557531e1a1ec16cb57ab8f9b29"
+metafile = true
+
+[[files]]
+file = "mods/create-better-villager.pw.toml"
+hash = "a28a755f1f29c1282bc91092795fbbafb3734333519e3146028639d05a574f5c"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "9f360f0a4e89e0b316bf266d463dbbb13b4a08f452a22f20294544c2d3067be1"
+metafile = true
+
+[[files]]
+file = "mods/create-pillager-arise.pw.toml"
+hash = "1bcbb283bef75e12ce93a26c60bf509ddca02a0c908af932b6a52446fd38b500"
+metafile = true
+
+[[files]]
+file = "mods/create-ranged.pw.toml"
+hash = "cf002ed94ba9eefe158c14ece93d208c0a697e054a7b8318209d82ddc610d55c"
+metafile = true
+
+[[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "d956f7ea7c045c80315318ddea0f30325c8f20c53bd9f4e14f8abc6fd5121fac"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "007c2e591bfefedaf9f1f6cbf70e67f669fff1e46d156583157ad2483175b1ec"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "d657dd7d35248a9d0fb8dfae1f751202d8fb31e0bc3c41ba5ebdf77e159070f0"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "244b1a3a3fa33fbbe45dd1516d0279c33fdcfef6157d3784cb1c895e3b09e826"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "0e7ace6399c568b58dd873e9bdc293f377528cf75eb48f4d60077cc7caa85ca8"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "59d7cbdc17f7c58ce946d62a8e56e5e3596d0458f6fdf44558a59542dfc0df54"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fe64d3dd484296b6a6b36a7e7c96d6f17ce21bc274cf33abd223a8b0587befb1"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "5dbf6efac80bb42bb52875dd04a70839619b1b4c83f646bea668ebbddd4c1b49"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "03e90d1fb66cb4a91da0c0c71fd3120fa3e61782bb03e67ede8330e861d55ddd"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5451c741d85dd5d577c60aaa9b5b42fbfe7037d3c728330dbafb8b704dfcd60d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
+metafile = true

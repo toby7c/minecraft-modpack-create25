@@ -1,0 +1,13 @@
+name = "Create: Deep Dark [Forge/NeoForge]"
+filename = "create_deep_dark-1.7.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdd0c1676198f6fdac0f5b3caa34afb1b87a4ec6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6257217
+project-id = 1020173

@@ -1,0 +1,13 @@
+name = "Create: Simple Ore Doubling [Forge/Fabric/NeoForge]"
+filename = "create_simple_ore_doubling-1.5.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d7918346a1ea2960663233bb672151f91257378"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6257016
+project-id = 1056743
