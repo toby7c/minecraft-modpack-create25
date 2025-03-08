@@ -36,11 +36,6 @@ hash = "ac3540ee0316f139f4f01b07dd3f8f8181968da8f5bf2744a5aeee30f916dc37"
 metafile = true
 
 [[files]]
-file = "mods/create-pillager-arise.pw.toml"
-hash = "1bcbb283bef75e12ce93a26c60bf509ddca02a0c908af932b6a52446fd38b500"
-metafile = true
-
-[[files]]
 file = "mods/create-ranged.pw.toml"
 hash = "cf002ed94ba9eefe158c14ece93d208c0a697e054a7b8318209d82ddc610d55c"
 metafile = true
