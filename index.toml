@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-dark.pw.toml"
-hash = "9f360f0a4e89e0b316bf266d463dbbb13b4a08f452a22f20294544c2d3067be1"
+hash = "ac3540ee0316f139f4f01b07dd3f8f8181968da8f5bf2744a5aeee30f916dc37"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "007c2e591bfefedaf9f1f6cbf70e67f669fff1e46d156583157ad2483175b1ec"
+hash = "686a5edaa87e5dec741acc8b140739dd0a262ac703a035d4bff90ab03e7ac294"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
+hash = "771a6a66d637ff4d1e29e8a1abb64983c6733bc1cc339815df9ab9842457c5ab"
 metafile = true
 
 [[files]]
